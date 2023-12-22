@@ -4,16 +4,21 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello, World!");
+console.log("Hello, Everyone!") //changed printed message
+console.log("4");
+console.log(4 + 4);
+console.log("This is my first message","& this is my second message");
+console.log("Quoth the Raven 'nevermore'");
+console.log("i hope this is correct lol")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
    1. Change the message that is printed.
-   2. Figure out what the parentheses do. Will the code work without them?
-   3. Remove one or both quotation marks. Do we need to include both opening and closing quote marks? Is there a difference between using a single or a double quote (' vs. ")?
-   4. Remove the semi-colon, ;.
+   2. Figure out what the parentheses do. Will the code work without them? Code does not work without them
+   3. Remove one or both quotation marks. Do we need to include both opening and closing quote marks? Is there a difference between using a single or a double quote (' vs. ")? There is not difference between quotation marks but the parenthesis are needed.
+   4. Remove the semi-colon, ;. Code runs still!
    5. Print a number. (Bonus: Print two numbers added together).
    6. Print multiple messages one after the other.
    7. Print two messages on the same line.
